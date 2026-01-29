@@ -1,0 +1,101 @@
+lead_id,customer_id,lead_source,lead_status,created_at
+L001,CU209,Cold Call,Converted,2026-01-19
+L002,CU164,Website,Converted,2025-10-27
+L003,CU197,Ads,Dropped,2025-09-02
+L004,CU239,Referral,New,2025-12-25
+L005,CU177,Website,Contacted,2025-12-20
+L006,CU203,Referral,Contacted,2025-12-05
+L007,CU246,Website,Contacted,2025-08-05
+L008,CU149,Referral,Contacted,2026-01-07
+L009,CU134,Ads,Converted,2025-08-19
+L010,CU125,Cold Call,Converted,2025-08-16
+L011,CU189,Ads,Converted,2025-08-29
+L012,CU279,Referral,Dropped,2025-10-27
+L013,CU145,Referral,Dropped,2025-10-14
+L014,CU299,Cold Call,Converted,2026-01-11
+L015,CU164,Ads,Dropped,2025-11-27
+L016,CU294,Referral,Converted,2025-09-30
+L017,CU174,Referral,Dropped,2026-01-24
+L018,CU293,Ads,Dropped,2025-09-13
+L019,CU112,Website,Converted,2025-10-25
+L020,CU267,Referral,Converted,2025-12-19
+L021,CU160,Ads,Converted,2026-01-17
+L022,CU212,Website,Contacted,2025-10-14
+L023,CU144,Cold Call,New,2025-10-14
+L024,CU261,Cold Call,Converted,2025-08-09
+L025,CU168,Ads,Contacted,2025-12-29
+L026,CU197,Website,Dropped,2025-10-10
+L027,CU185,Cold Call,Converted,2025-12-16
+L028,CU266,Website,New,2025-09-14
+L029,CU127,Website,Contacted,2025-08-08
+L030,CU195,Ads,Contacted,2026-01-18
+L031,CU263,Website,Converted,2026-01-27
+L032,CU275,Referral,New,2025-10-07
+L033,CU142,Ads,Converted,2025-08-21
+L034,CU255,Ads,Contacted,2025-10-18
+L035,CU239,Ads,Dropped,2025-12-16
+L036,CU110,Cold Call,Converted,2025-09-02
+L037,CU140,Referral,New,2025-09-15
+L038,CU283,Ads,Contacted,2025-09-11
+L039,CU162,Cold Call,New,2025-10-08
+L040,CU186,Ads,Contacted,2025-11-08
+L041,CU271,Cold Call,Converted,2025-12-08
+L042,CU170,Ads,Dropped,2026-01-22
+L043,CU176,Website,Contacted,2025-11-05
+L044,CU293,Referral,Dropped,2025-12-20
+L045,CU146,Website,Converted,2025-12-30
+L046,CU131,Website,Dropped,2025-08-16
+L047,CU179,Cold Call,Dropped,2025-12-03
+L048,CU201,Ads,Converted,2026-01-26
+L049,CU256,Cold Call,New,2025-12-24
+L050,CU154,Website,Converted,2026-01-23
+L051,CU230,Ads,Dropped,2025-09-26
+L052,CU139,Ads,New,2025-09-25
+L053,CU220,Cold Call,Dropped,2025-12-18
+L054,CU153,Cold Call,Contacted,2025-08-31
+L055,CU104,Referral,New,2025-09-22
+L056,CU276,Cold Call,Dropped,2025-08-22
+L057,CU168,Referral,Contacted,2025-11-06
+L058,CU165,Website,Dropped,2025-11-07
+L059,CU246,Cold Call,New,2025-08-15
+L060,CU146,Ads,Contacted,2025-11-11
+L061,CU280,Ads,Dropped,2025-12-18
+L062,CU102,Ads,Dropped,2025-12-25
+L063,CU269,Cold Call,Converted,2025-10-08
+L064,CU270,Cold Call,Dropped,2025-10-26
+L065,CU231,Website,Contacted,2025-08-02
+L066,CU275,Referral,Dropped,2025-08-25
+L067,CU253,Website,Contacted,2025-12-12
+L068,CU183,Referral,Converted,2025-11-30
+L069,CU240,Referral,Dropped,2025-09-28
+L070,CU223,Referral,New,2025-12-15
+L071,CU212,Cold Call,New,2025-11-20
+L072,CU163,Referral,Converted,2025-11-19
+L073,CU278,Ads,Dropped,2026-01-15
+L074,CU104,Referral,Contacted,2025-12-13
+L075,CU157,Cold Call,Contacted,2025-09-17
+L076,CU113,Website,Converted,2025-10-21
+L077,CU142,Ads,Contacted,2025-11-30
+L078,CU232,Cold Call,Contacted,2025-12-19
+L079,CU244,Website,New,2025-09-09
+L080,CU183,Website,Dropped,2025-09-06
+L081,CU159,Cold Call,Contacted,2025-10-13
+L082,CU200,Website,Contacted,2025-11-16
+L083,CU217,Website,New,2025-11-25
+L084,CU193,Ads,New,2025-11-22
+L085,CU189,Referral,Contacted,2025-09-13
+L086,CU231,Cold Call,Contacted,2025-12-29
+L087,CU158,Referral,Converted,2025-08-11
+L088,CU110,Website,Dropped,2025-08-21
+L089,CU240,Ads,Dropped,2025-10-19
+L090,CU145,Cold Call,Converted,2025-11-10
+L091,CU280,Referral,Converted,2025-11-20
+L092,CU141,Website,Dropped,2025-11-05
+L093,CU249,Cold Call,Dropped,2025-10-04
+L094,CU189,Referral,Converted,2026-01-06
+L095,CU150,Ads,Converted,2026-01-16
+L096,CU237,Website,Converted,2025-10-01
+L097,CU196,Referral,New,2025-11-28
+L098,CU149,Referral,Converted,2025-12-28
+L099,CU237,Website,Contacted,2025-09-17
+L100,CU160,Website,Contacted,2025-10-29
