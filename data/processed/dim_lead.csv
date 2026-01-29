@@ -1,0 +1,101 @@
+lead_id,lead_source,lead_status
+L001,Cold Call,Converted
+L002,Website,Converted
+L003,Ads,Dropped
+L004,Referral,New
+L005,Website,Contacted
+L006,Referral,Contacted
+L007,Website,Contacted
+L008,Referral,Contacted
+L009,Ads,Converted
+L010,Cold Call,Converted
+L011,Ads,Converted
+L012,Referral,Dropped
+L013,Referral,Dropped
+L014,Cold Call,Converted
+L015,Ads,Dropped
+L016,Referral,Converted
+L017,Referral,Dropped
+L018,Ads,Dropped
+L019,Website,Converted
+L020,Referral,Converted
+L021,Ads,Converted
+L022,Website,Contacted
+L023,Cold Call,New
+L024,Cold Call,Converted
+L025,Ads,Contacted
+L026,Website,Dropped
+L027,Cold Call,Converted
+L028,Website,New
+L029,Website,Contacted
+L030,Ads,Contacted
+L031,Website,Converted
+L032,Referral,New
+L033,Ads,Converted
+L034,Ads,Contacted
+L035,Ads,Dropped
+L036,Cold Call,Converted
+L037,Referral,New
+L038,Ads,Contacted
+L039,Cold Call,New
+L040,Ads,Contacted
+L041,Cold Call,Converted
+L042,Ads,Dropped
+L043,Website,Contacted
+L044,Referral,Dropped
+L045,Website,Converted
+L046,Website,Dropped
+L047,Cold Call,Dropped
+L048,Ads,Converted
+L049,Cold Call,New
+L050,Website,Converted
+L051,Ads,Dropped
+L052,Ads,New
+L053,Cold Call,Dropped
+L054,Cold Call,Contacted
+L055,Referral,New
+L056,Cold Call,Dropped
+L057,Referral,Contacted
+L058,Website,Dropped
+L059,Cold Call,New
+L060,Ads,Contacted
+L061,Ads,Dropped
+L062,Ads,Dropped
+L063,Cold Call,Converted
+L064,Cold Call,Dropped
+L065,Website,Contacted
+L066,Referral,Dropped
+L067,Website,Contacted
+L068,Referral,Converted
+L069,Referral,Dropped
+L070,Referral,New
+L071,Cold Call,New
+L072,Referral,Converted
+L073,Ads,Dropped
+L074,Referral,Contacted
+L075,Cold Call,Contacted
+L076,Website,Converted
+L077,Ads,Contacted
+L078,Cold Call,Contacted
+L079,Website,New
+L080,Website,Dropped
+L081,Cold Call,Contacted
+L082,Website,Contacted
+L083,Website,New
+L084,Ads,New
+L085,Referral,Contacted
+L086,Cold Call,Contacted
+L087,Referral,Converted
+L088,Website,Dropped
+L089,Ads,Dropped
+L090,Cold Call,Converted
+L091,Referral,Converted
+L092,Website,Dropped
+L093,Cold Call,Dropped
+L094,Referral,Converted
+L095,Ads,Converted
+L096,Website,Converted
+L097,Referral,New
+L098,Referral,Converted
+L099,Website,Contacted
+L100,Website,Contacted
